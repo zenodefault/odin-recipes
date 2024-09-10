@@ -1,0 +1,17 @@
+*{
+    background-color: bisque;
+}
+
+.head{
+    color: crimson;
+    font-family: 'fantasy';
+    font-size: 60px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.content{
+    text-align: center;
+    background-color: bisque;
+    font-weight: 500;
+}
